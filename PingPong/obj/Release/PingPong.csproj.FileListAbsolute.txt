@@ -1,0 +1,10 @@
+C:\Users\aklik\source\repos\PingPong\bin\Release\PingPong.exe.config
+C:\Users\aklik\source\repos\PingPong\bin\Release\PingPong.exe
+C:\Users\aklik\source\repos\PingPong\bin\Release\PingPong.pdb
+C:\Users\aklik\source\repos\PingPong\obj\Release\PingPong.csproj.AssemblyReference.cache
+C:\Users\aklik\source\repos\PingPong\obj\Release\PingPong.Form1.resources
+C:\Users\aklik\source\repos\PingPong\obj\Release\PingPong.Properties.Resources.resources
+C:\Users\aklik\source\repos\PingPong\obj\Release\PingPong.csproj.GenerateResource.cache
+C:\Users\aklik\source\repos\PingPong\obj\Release\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\aklik\source\repos\PingPong\obj\Release\PingPong.exe
+C:\Users\aklik\source\repos\PingPong\obj\Release\PingPong.pdb
